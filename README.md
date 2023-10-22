@@ -1,4 +1,5 @@
-# APD
-Lupu Andra AC CTI
-Achizitia si prelucrarea datelor proiect
+# A signal processing application
+Lupu Andra 
 Filtrarea unui semnal
+AC 
+CTI
